@@ -12,9 +12,9 @@
 	</properties>
 	
 	<scm>
-	  <connection>scm:git:ssh://github.com/headhunter45/${artifactId}.git</connection>
+	  <connection>scm:git:ssh://github.com/headhunter45/TestJenkinsPlugin.git</connection>
       <developerConnection>scm:git:ssh://git@github.com/headhunter45/TestJenkinsPlugin.git</developerConnection>
-      <url>http://github.com/headhunter45/${artifactId}</url>
+      <url>http://github.com/headhunter45/TestJenkinsPlugin</url>
     </scm>
 	
 	<repositories>
