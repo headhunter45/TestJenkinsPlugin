@@ -4,7 +4,7 @@
 	<groupId>com.majinnaibu</groupId>
 	<artifactId>TestJenkinsPlugin</artifactId>
 	<packaging>jar</packaging>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<name>TestJenkinsPlugin</name>
 	<url>http://maven.apache.org</url>
 	<properties>
